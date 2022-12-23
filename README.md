@@ -1,4 +1,7 @@
-### Hi there 👋
+### Garbage Classification using GoogLeNet and CRNN
+The aim of the project was to properly classify each image to its belongnin class.  
+We implemented two neural network models: a GoogLeNet architecture and a Convolutional Recurrent Neural Network architecture.
+
 
 <!--
 **sofiapizi/sofiapizi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
