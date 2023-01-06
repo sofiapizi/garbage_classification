@@ -1,6 +1,6 @@
 ### Garbage Classification using GoogLeNet and CRNN
 The aim of the project was to properly classify each image to its belonging class.  
-We implemented two neural network models: a GoogLeNet architecture and a Convolutional Recurrent Neural Network architecture.
+We implemented two neural network archtectures: a GoogLeNet model and a Convolutional Recurrent Neural Network model.
 
 
 <!--
